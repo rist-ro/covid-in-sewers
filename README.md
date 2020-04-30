@@ -32,6 +32,8 @@ Measures of viral load in stool are: 10<sup>5</sup>-10<sup>11</sup>, with a peak
 
 ## About this
 
-This document was initiated by [Răzvan Valentin Florian](https://florian.io/), who thanks [Mehdi Khoury](https://www.researchgate.net/profile/Mehdi_Khoury) from the Sewers4COV team and Alex Burciu for providing pointers to relevant information mentioned here.
+This document was initiated by [Răzvan Valentin Florian](https://florian.io/), who thanks [Mehdi Khoury](https://www.researchgate.net/profile/Mehdi_Khoury) from the Sewers4COV team and Alex Burciu for providing pointers to relevant information mentioned here. 
+
+This is released under a [Creative Commons Attribution International license](https://creativecommons.org/licenses/by/4.0/).
 
 
